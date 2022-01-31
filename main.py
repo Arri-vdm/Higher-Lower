@@ -77,7 +77,7 @@ def new_game():
             print(vs)
             # Record 2
             print(
-                f"\nCompare 2:\n---------\n{record_two['name']}, {record_two['description']},\nfrom {record_two['country']}.\n"
+                f"\nAgainst 2:\n---------\n{record_two['name']}, {record_two['description']},\nfrom {record_two['country']}.\n"
             )
 
         display()

@@ -9,7 +9,7 @@ def new_game():
 
     # User score start at 0
     user_score = 0
-    # Not the end of the game
+    # End of the game is not true
     end_of_game = False
 
     def intro_screen():

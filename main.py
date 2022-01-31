@@ -60,7 +60,7 @@ def new_game():
         record_two_followers = record_two['follower_count']
 
         if user_score >= 1:
-            print(f"\nYou're right! Current score: {user_score}")
+            print(f"\nYou're RIGHT! Current SCORE: {user_score}")
 
         # Testing
         # print(f"record_one_followers = {record_one_followers}")
